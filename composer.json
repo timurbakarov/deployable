@@ -1,0 +1,12 @@
+{
+    "name": "timur/deployable",
+    "authors": [
+        {
+            "name": "Timur Bakarov",
+            "email": "tbakarov@gmail.com"
+        }
+    ],
+    "require": {
+        "anahkiasen/rocketeer": "^2.2"
+    }
+}
