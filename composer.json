@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "anahkiasen/rocketeer": "^2.2"
+        "xinchin/draco": "@dev"
     }
 }
